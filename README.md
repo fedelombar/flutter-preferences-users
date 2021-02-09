@@ -1,9 +1,9 @@
-<<<<<<< HEAD
-# flutter-preferences-users
-=======
-# preferenciasusuarioapp
 
-A new Flutter project.
+# Preferences user app
+
+Handling of getters and setters for user preferences.
+
+Practical app.
 
 ## Getting Started
 
